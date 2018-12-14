@@ -1,3 +1,6 @@
+#thanks to https://learn.adafruit.com/adafruit-16-channel-pwm-servo-hat-for-raspberry-pi/using-the-python-library
+#for some code
+
 #!/user/bin/env python3
 from picamera import PiCamera
 import subprocess
